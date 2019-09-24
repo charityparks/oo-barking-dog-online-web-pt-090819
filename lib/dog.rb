@@ -3,5 +3,6 @@ class Dog
     puts "Woof!"
   
 end
+def 
 fido.name = "Fido"
 
