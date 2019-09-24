@@ -3,6 +3,7 @@ class Dog
     puts "Woof!"
   
 end
-def name=dog_name
+def name=(dog_name)
+  @This_Dog
 fido.name = "Fido"
 
