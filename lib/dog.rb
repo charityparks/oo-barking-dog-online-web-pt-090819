@@ -8,7 +8,7 @@ def name=(dog_name)
 end 
 
 def name
-  @WThis_dogs_name
+  @This_dogs_name
 end
 end
 
